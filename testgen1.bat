@@ -1,0 +1,1 @@
+start .\BIN\dist\TESTGEN1\TESTGEN1.exe
